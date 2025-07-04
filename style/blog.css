@@ -1,0 +1,15 @@
+
+.blog{
+    background-color: tomato;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+}
+*{
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+div{
+    text-align: center;
+}
